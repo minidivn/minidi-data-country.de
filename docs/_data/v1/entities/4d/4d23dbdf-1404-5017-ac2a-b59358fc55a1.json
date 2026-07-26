@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q160532",
+      "title": "WikiData Q-item: Q160532",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q160532"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sportverein aus Paderborn, Nordrhein-Westfalen"
+    },
+    "descriptions": {
+      "en": "Sportverein aus Paderborn, Nordrhein-Westfalen"
+    },
+    "domain": "general",
+    "id": "Q160532",
+    "labels": {
+      "en": "SC Paderborn 07"
+    },
+    "properties": {},
+    "type": "person"
+  }
+}

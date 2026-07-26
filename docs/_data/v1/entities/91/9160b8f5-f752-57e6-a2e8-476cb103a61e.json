@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q65096742",
+      "title": "WikiData Q-item: Q65096742",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q65096742"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "UNESCO-Welterbestätte in Australien"
+    },
+    "descriptions": {
+      "en": "UNESCO-Welterbestätte in Australien"
+    },
+    "domain": "general",
+    "id": "Q65096742",
+    "labels": {
+      "en": "Nationalpark Kakadu"
+    },
+    "properties": {
+      "coordinates": "Point(132.5195 -13.0055)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49411",
+      "title": "WikiData Q-item: Q49411",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49411"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Quellfluss der Rednitz in Bayern"
+    },
+    "descriptions": {
+      "en": "Quellfluss der Rednitz in Bayern"
+    },
+    "domain": "general",
+    "id": "Q49411",
+    "labels": {
+      "en": "Schwäbische Rezat"
+    },
+    "properties": {
+      "coordinates": "Point(11.0222 49.1881)"
+    },
+    "type": "place"
+  }
+}

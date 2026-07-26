@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q141512",
+      "title": "WikiData Q-item: Q141512",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q141512"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sportverein in Ostfriesland, Deutschland"
+    },
+    "descriptions": {
+      "en": "Sportverein in Ostfriesland, Deutschland"
+    },
+    "domain": "general",
+    "id": "Q141512",
+    "labels": {
+      "en": "TuS Pewsum"
+    },
+    "properties": {},
+    "type": "person"
+  }
+}

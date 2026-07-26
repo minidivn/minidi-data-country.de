@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16815",
+      "title": "WikiData Q-item: Q16815",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16815"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Soziologe, Kulturwissenschaftler und Autor"
+    },
+    "descriptions": {
+      "en": "deutscher Soziologe, Kulturwissenschaftler und Autor"
+    },
+    "domain": "general",
+    "id": "Q16815",
+    "labels": {
+      "en": "Franz Maciejewski"
+    },
+    "properties": {
+      "birth_date": "1946-01-01T00:00:00Z",
+      "occupation": "Soziologe"
+    },
+    "type": "person"
+  }
+}

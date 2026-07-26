@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q64590476",
+      "title": "WikiData Q-item: Q64590476",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q64590476"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "UNESCO-Welterbe in Deutschland, Dänemark und den Niederlanden"
+    },
+    "descriptions": {
+      "en": "UNESCO-Welterbe in Deutschland, Dänemark und den Niederlanden"
+    },
+    "domain": "general",
+    "id": "Q64590476",
+    "labels": {
+      "en": "Wattenmeer"
+    },
+    "properties": {
+      "coordinates": "Point(8.556111111 53.528611111)"
+    },
+    "type": "place"
+  }
+}

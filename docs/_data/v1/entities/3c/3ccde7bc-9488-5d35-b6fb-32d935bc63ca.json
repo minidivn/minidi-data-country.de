@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:33:29.731325900+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:33:29.731325900+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3966447",
+      "title": "WikiData Q-item: Q3966447",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3966447"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Die Germanicus-Feldzüge waren römische Militäroperationen der Jahre 14 bis 16 n. Chr. gegen eine Koalition rechtsrheinischer germanischer Stämme. Benannt sind die Feldzüge nach Nero Claudius Germanicus (* 15 v. Chr.; † 19 n. Chr.), einem Großneffen des Augustus. Hauptgegner waren die Cherusker unter der Führung des Arminius (* um 17 v. Chr.; † um 21 n. Chr.). Die Offensiven gelten als Höhe- und Endpunkt der Augusteischen Germanenkriege, die im Jahr 12 v. Chr. von Nero Claudius Drusus, dem Vater des Germanicus, begonnen worden waren. Die Offensiven wurden mit gewaltigem Aufwand betrieben – Germanicus kommandierte das mit acht Legionen größte römische Heer der damaligen Zeit. Den Feldzügen vorausgegangen waren die vernichtende Niederlage des römischen Statthalters Varus (Schlacht im Teutoburger Wald 9 n. Chr.) und der Verlust fast aller römischen Positionen rechts des Rheins. Wesentliche Kriegsziele waren deshalb die Wiederherstellung der römischen Oberhoheit in Germanien und die Bestrafung der Aufständischen."
+    },
+    "descriptions": {
+      "en": "Römische Militäroperationen gegen germanische Stämme"
+    },
+    "domain": "general",
+    "id": "Q3966447",
+    "labels": {
+      "de": "Germanicus-Feldzüge",
+      "en": "Germanicus-Feldzüge"
+    },
+    "properties": {
+      "end_time": "0016-01-01T00:00:00Z",
+      "start_time": "0014-01-01T00:00:00Z",
+      "summary": "Die Germanicus-Feldzüge waren römische Militäroperationen der Jahre 14 bis 16 n. Chr. gegen eine Koalition rechtsrheinischer germanischer Stämme. Benannt sind die Feldzüge nach Nero Claudius Germanicus (* 15 v. Chr.; † 19 n. Chr.), einem Großneffen des Augustus. Hauptgegner waren die Cherusker unter der Führung des Arminius (* um 17 v. Chr.; † um 21 n. Chr.). Die Offensiven gelten als Höhe- und Endpunkt der Augusteischen Germanenkriege, die im Jahr 12 v. Chr. von Nero Claudius Drusus, dem Vater des Germanicus, begonnen worden waren. Die Offensiven wurden mit gewaltigem Aufwand betrieben – Germanicus kommandierte das mit acht Legionen größte römische Heer der damaligen Zeit. Den Feldzügen vorausgegangen waren die vernichtende Niederlage des römischen Statthalters Varus (Schlacht im Teutoburger Wald 9 n. Chr.) und der Verlust fast aller römischen Positionen rechts des Rheins. Wesentliche Kriegsziele waren deshalb die Wiederherstellung der römischen Oberhoheit in Germanien und die Bestrafung der Aufständischen."
+    },
+    "type": "event"
+  }
+}
