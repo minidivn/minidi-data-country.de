@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q777885",
+      "title": "WikiData Q-item: Q777885",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q777885"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Ausbesserungswerk der Deutschen Bahn"
+    },
+    "descriptions": {
+      "en": "Ausbesserungswerk der Deutschen Bahn"
+    },
+    "domain": "general",
+    "id": "Q777885",
+    "labels": {
+      "en": "Ausbesserungswerk Paderborn-Nord"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

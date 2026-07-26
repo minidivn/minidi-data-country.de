@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q162993",
+      "title": "WikiData Q-item: Q162993",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q162993"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Weißen Elster"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Weißen Elster"
+    },
+    "domain": "general",
+    "id": "Q162993",
+    "labels": {
+      "en": "Pleiße"
+    },
+    "properties": {
+      "coordinates": "Point(12.3575 51.3225)"
+    },
+    "type": "place"
+  }
+}

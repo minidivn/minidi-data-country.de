@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q96986777",
+      "title": "WikiData Q-item: Q96986777",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q96986777"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Schlacht des Bauerkrieges am 2. Juni 1525 zwischen den vereinigten Neckartaler und Odenwalder Haufen und dem Heer von Waldburg-Zeil auf dem Turmberg bei Königshofen"
+    },
+    "descriptions": {
+      "en": "Schlacht des Bauerkrieges am 2. Juni 1525 zwischen den vereinigten Neckartaler und Odenwalder Haufen und dem Heer von Waldburg-Zeil auf dem Turmberg bei Königshofen"
+    },
+    "domain": "general",
+    "id": "Q96986777",
+    "labels": {
+      "en": "Schlacht von Königshofen"
+    },
+    "properties": {
+      "point_in_time": "1525-06-12T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q386579",
+      "title": "WikiData Q-item: Q386579",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q386579"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Elbe in Schleswig-Holstein, Grenzfluss zu Mecklenburg, Deutschland"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Elbe in Schleswig-Holstein, Grenzfluss zu Mecklenburg, Deutschland"
+    },
+    "domain": "general",
+    "id": "Q386579",
+    "labels": {
+      "en": "Delvenau"
+    },
+    "properties": {
+      "coordinates": "Point(10.5808 53.3738)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49521",
+      "title": "WikiData Q-item: Q49521",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49521"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Prähistoriker (1939–2005)"
+    },
+    "descriptions": {
+      "en": "deutscher Prähistoriker (1939–2005)"
+    },
+    "domain": "general",
+    "id": "Q49521",
+    "labels": {
+      "de": "Konrad Spindler",
+      "en": "Konrad Spindler"
+    },
+    "properties": {
+      "birth_date": "1939-06-20T00:00:00Z",
+      "death_date": "2005-04-17T00:00:00Z",
+      "occupation": "Prähistoriker"
+    },
+    "type": "person"
+  }
+}

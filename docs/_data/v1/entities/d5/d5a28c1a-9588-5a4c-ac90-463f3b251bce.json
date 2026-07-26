@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q451537",
+      "title": "WikiData Q-item: Q451537",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q451537"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Zufluss der Oker"
+    },
+    "descriptions": {
+      "en": "Zufluss der Oker"
+    },
+    "domain": "general",
+    "id": "Q451537",
+    "labels": {
+      "en": "Ilse"
+    },
+    "properties": {
+      "coordinates": "Point(10.5697 52.0691)"
+    },
+    "type": "place"
+  }
+}

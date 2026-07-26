@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q450837",
+      "title": "WikiData Q-item: Q450837",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q450837"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Berg der Allgäuer Alpen in Bayern"
+    },
+    "descriptions": {
+      "en": "Berg der Allgäuer Alpen in Bayern"
+    },
+    "domain": "general",
+    "id": "Q450837",
+    "labels": {
+      "en": "Trettachspitze"
+    },
+    "properties": {
+      "coordinates": "Point(10.29545 47.30362)"
+    },
+    "type": "place"
+  }
+}

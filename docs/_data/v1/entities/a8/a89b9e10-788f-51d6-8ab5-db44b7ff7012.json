@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q30863",
+      "title": "WikiData Q-item: Q30863",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q30863"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Unternehmer (1920–2014)"
+    },
+    "descriptions": {
+      "en": "deutscher Unternehmer (1920–2014)"
+    },
+    "domain": "general",
+    "id": "Q30863",
+    "labels": {
+      "en": "Karl Albrecht"
+    },
+    "properties": {
+      "birth_date": "1920-02-20T00:00:00Z",
+      "death_date": "2014-07-16T00:00:00Z",
+      "occupation": "Unternehmer"
+    },
+    "type": "person"
+  }
+}

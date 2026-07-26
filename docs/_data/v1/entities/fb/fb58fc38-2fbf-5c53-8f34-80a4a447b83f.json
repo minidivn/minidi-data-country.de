@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q45221",
+      "title": "WikiData Q-item: Q45221",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q45221"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Schriftsteller, Schauspieler, Filmregisseur und Maler"
+    },
+    "descriptions": {
+      "en": "deutscher Schriftsteller, Schauspieler, Filmregisseur und Maler"
+    },
+    "domain": "general",
+    "id": "Q45221",
+    "labels": {
+      "de": "Herbert Achternbusch",
+      "en": "Herbert Achternbusch"
+    },
+    "properties": {
+      "birth_date": "1938-11-23T00:00:00Z",
+      "death_date": "2022-01-10T00:00:00Z",
+      "occupation": "Filmschauspieler"
+    },
+    "type": "person"
+  }
+}

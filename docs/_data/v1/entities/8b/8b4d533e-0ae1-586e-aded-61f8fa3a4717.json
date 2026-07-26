@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28328",
+      "title": "WikiData Q-item: Q28328",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28328"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Historiker, Geograph und Ökonom"
+    },
+    "descriptions": {
+      "en": "deutscher Historiker, Geograph und Ökonom"
+    },
+    "domain": "general",
+    "id": "Q28328",
+    "labels": {
+      "en": "Arno Peters"
+    },
+    "properties": {
+      "birth_date": "1916-05-22T00:00:00Z",
+      "death_date": "2002-12-02T00:00:00Z",
+      "occupation": "Historiker"
+    },
+    "type": "person"
+  }
+}

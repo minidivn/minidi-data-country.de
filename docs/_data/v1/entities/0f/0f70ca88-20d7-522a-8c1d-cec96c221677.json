@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q493534",
+      "title": "WikiData Q-item: Q493534",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q493534"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "storm tide that affected the Netherlands and Northern Germany on 14 December 1287"
+    },
+    "descriptions": {
+      "en": "storm tide that affected the Netherlands and Northern Germany on 14 December 1287"
+    },
+    "domain": "general",
+    "id": "Q493534",
+    "labels": {
+      "en": "Luciaflut"
+    },
+    "properties": {
+      "end_time": "1287-12-21T00:00:00Z",
+      "start_time": "1287-12-20T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

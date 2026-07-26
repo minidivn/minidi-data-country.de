@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2573",
+      "title": "WikiData Q-item: Q2573",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2573"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Politiker; MdB, Bundesminister, 3. Bundespräsident der Bundesrepublik Deutschland (1969–1974)"
+    },
+    "descriptions": {
+      "en": "deutscher Politiker; MdB, Bundesminister, 3. Bundespräsident der Bundesrepublik Deutschland (1969–1974)"
+    },
+    "domain": "general",
+    "id": "Q2573",
+    "labels": {
+      "en": "Gustav Heinemann"
+    },
+    "properties": {
+      "birth_date": "1899-07-23T00:00:00Z",
+      "death_date": "1976-07-07T00:00:00Z",
+      "occupation": "Politiker"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1350221",
+      "title": "WikiData Q-item: Q1350221",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1350221"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Unglück beim Hoftag 1184"
+    },
+    "descriptions": {
+      "en": "Unglück beim Hoftag 1184"
+    },
+    "domain": "general",
+    "id": "Q1350221",
+    "labels": {
+      "en": "Erfurter Latrinensturz"
+    },
+    "properties": {
+      "point_in_time": "1184-08-02T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q35721",
+      "title": "WikiData Q-item: Q35721",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q35721"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutsche Pornodarstellerin und Fetischmodel"
+    },
+    "descriptions": {
+      "en": "deutsche Pornodarstellerin und Fetischmodel"
+    },
+    "domain": "general",
+    "id": "Q35721",
+    "labels": {
+      "en": "Annette Schwarz"
+    },
+    "properties": {
+      "birth_date": "1984-03-26T00:00:00Z",
+      "occupation": "Erotikmodel"
+    },
+    "type": "person"
+  }
+}

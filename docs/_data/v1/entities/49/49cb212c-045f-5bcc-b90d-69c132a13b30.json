@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12645",
+      "title": "WikiData Q-item: Q12645",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12645"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "eingleisige Überlandstraßenbahn in der Sächsischen Schweiz"
+    },
+    "descriptions": {
+      "en": "eingleisige Überlandstraßenbahn in der Sächsischen Schweiz"
+    },
+    "domain": "general",
+    "id": "Q12645",
+    "labels": {
+      "en": "Kirnitzschtalbahn"
+    },
+    "properties": {
+      "coordinates": "Point(14.1582 50.92126)"
+    },
+    "type": "place"
+  }
+}

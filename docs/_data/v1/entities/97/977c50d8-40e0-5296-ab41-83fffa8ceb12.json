@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q27427",
+      "title": "WikiData Q-item: Q27427",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q27427"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Mathematiker"
+    },
+    "descriptions": {
+      "en": "deutscher Mathematiker"
+    },
+    "domain": "general",
+    "id": "Q27427",
+    "labels": {
+      "en": "Heiner Zieschang"
+    },
+    "properties": {
+      "birth_date": "1936-11-12T00:00:00Z",
+      "death_date": "2004-04-05T00:00:00Z",
+      "occupation": "Dozent"
+    },
+    "type": "person"
+  }
+}

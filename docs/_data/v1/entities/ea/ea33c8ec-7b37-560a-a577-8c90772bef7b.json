@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q43802",
+      "title": "WikiData Q-item: Q43802",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q43802"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Gründer der Wiener k.u.k. Hofzuckerbäckerei"
+    },
+    "descriptions": {
+      "en": "Gründer der Wiener k.u.k. Hofzuckerbäckerei"
+    },
+    "domain": "general",
+    "id": "Q43802",
+    "labels": {
+      "en": "Ludwig Dehne"
+    },
+    "properties": {
+      "birth_date": "1800-01-01T00:00:00Z",
+      "death_date": "1799-05-08T00:00:00Z",
+      "occupation": "Patissier"
+    },
+    "type": "person"
+  }
+}

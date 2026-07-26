@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q51883",
+      "title": "WikiData Q-item: Q51883",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q51883"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Brigadegeneral a.D. der Bundeswehr"
+    },
+    "descriptions": {
+      "en": "deutscher Brigadegeneral a.D. der Bundeswehr"
+    },
+    "domain": "general",
+    "id": "Q51883",
+    "labels": {
+      "de": "Dirk W. Oetting",
+      "en": "Dirk W. Oetting"
+    },
+    "properties": {
+      "birth_date": "1938-01-01T00:00:00Z",
+      "death_date": "2020-03-21T00:00:00Z",
+      "occupation": "Sachbuchautor"
+    },
+    "type": "person"
+  }
+}

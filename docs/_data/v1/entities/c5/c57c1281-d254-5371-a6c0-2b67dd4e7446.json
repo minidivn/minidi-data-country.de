@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q173148",
+      "title": "WikiData Q-item: Q173148",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q173148"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Insel im Ägäischen Meer"
+    },
+    "descriptions": {
+      "en": "Insel im Ägäischen Meer"
+    },
+    "domain": "general",
+    "id": "Q173148",
+    "labels": {
+      "en": "Delos"
+    },
+    "properties": {
+      "coordinates": "Point(25.26904 37.38948)"
+    },
+    "type": "place"
+  }
+}

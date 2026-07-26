@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q325337",
+      "title": "WikiData Q-item: Q325337",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q325337"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Spree"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Spree"
+    },
+    "domain": "general",
+    "id": "Q325337",
+    "labels": {
+      "en": "Erpe"
+    },
+    "properties": {
+      "coordinates": "Point(13.59444444 52.45027778)"
+    },
+    "type": "place"
+  }
+}

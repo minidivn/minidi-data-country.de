@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q203818",
+      "title": "WikiData Q-item: Q203818",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q203818"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Nidder"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Nidder"
+    },
+    "domain": "general",
+    "id": "Q203818",
+    "labels": {
+      "en": "Seemenbach"
+    },
+    "properties": {
+      "coordinates": "Point(8.9837 50.2868)"
+    },
+    "type": "place"
+  }
+}

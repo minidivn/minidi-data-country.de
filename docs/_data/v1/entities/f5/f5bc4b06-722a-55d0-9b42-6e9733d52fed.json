@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q185310",
+      "title": "WikiData Q-item: Q185310",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q185310"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "rechter Nebenfluss der Mümling"
+    },
+    "descriptions": {
+      "en": "rechter Nebenfluss der Mümling"
+    },
+    "domain": "general",
+    "id": "Q185310",
+    "labels": {
+      "en": "Erdbach"
+    },
+    "properties": {
+      "coordinates": "Point(8.9936 49.6712)"
+    },
+    "type": "place"
+  }
+}

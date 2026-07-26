@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q137768081",
+      "title": "WikiData Q-item: Q137768081",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137768081"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Kurfürstliche Seidenmanufaktur in München"
+    },
+    "descriptions": {
+      "en": "Kurfürstliche Seidenmanufaktur in München"
+    },
+    "domain": "general",
+    "id": "Q137768081",
+    "labels": {
+      "en": "Seidenhaus in der Au"
+    },
+    "properties": {
+      "start_time": "1669-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

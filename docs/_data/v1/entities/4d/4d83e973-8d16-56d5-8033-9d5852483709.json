@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2007060",
+      "title": "WikiData Q-item: Q2007060",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2007060"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Folgekongress zum Westfälischen Frieden (1649-1650)"
+    },
+    "descriptions": {
+      "en": "Folgekongress zum Westfälischen Frieden (1649-1650)"
+    },
+    "domain": "general",
+    "id": "Q2007060",
+    "labels": {
+      "en": "Nürnberger Exekutionstag"
+    },
+    "properties": {
+      "end_time": "1650-07-01T00:00:00Z",
+      "start_time": "1649-04-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q187782",
+      "title": "WikiData Q-item: Q187782",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q187782"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "See in Kißlegg, Deutschland"
+    },
+    "descriptions": {
+      "en": "See in Kißlegg, Deutschland"
+    },
+    "domain": "general",
+    "id": "Q187782",
+    "labels": {
+      "en": "Zellersee"
+    },
+    "properties": {
+      "coordinates": "Point(9.87722222 47.78555556)"
+    },
+    "type": "place"
+  }
+}

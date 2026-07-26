@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q226992",
+      "title": "WikiData Q-item: Q226992",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q226992"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "See in der Mecklenburgischen Seenplatte"
+    },
+    "descriptions": {
+      "en": "See in der Mecklenburgischen Seenplatte"
+    },
+    "domain": "general",
+    "id": "Q226992",
+    "labels": {
+      "en": "Zotzensee"
+    },
+    "properties": {
+      "coordinates": "Point(12.812633333 53.242413888)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28998",
+      "title": "WikiData Q-item: Q28998",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28998"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "US-amerikanischer Schauspieler"
+    },
+    "descriptions": {
+      "en": "US-amerikanischer Schauspieler"
+    },
+    "domain": "general",
+    "id": "Q28998",
+    "labels": {
+      "en": "Reinhold Schünzel"
+    },
+    "properties": {
+      "birth_date": "1886-11-07T00:00:00Z",
+      "death_date": "1954-11-11T00:00:00Z",
+      "occupation": "Filmschauspieler"
+    },
+    "type": "person"
+  }
+}

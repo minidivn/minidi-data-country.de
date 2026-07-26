@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q358328",
+      "title": "WikiData Q-item: Q358328",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q358328"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Felsgruppe südlich der Stadt Eibenstock im Erzgebirge"
+    },
+    "descriptions": {
+      "en": "Felsgruppe südlich der Stadt Eibenstock im Erzgebirge"
+    },
+    "domain": "general",
+    "id": "Q358328",
+    "labels": {
+      "en": "Adlerfels"
+    },
+    "properties": {
+      "coordinates": "Point(12.595555555 50.484166666)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q205379",
+      "title": "WikiData Q-item: Q205379",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q205379"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Schlacht des Dreißigjährigen Kriegs, 1631"
+    },
+    "descriptions": {
+      "en": "Schlacht des Dreißigjährigen Kriegs, 1631"
+    },
+    "domain": "general",
+    "id": "Q205379",
+    "labels": {
+      "en": "Schlacht bei Breitenfeld"
+    },
+    "properties": {
+      "point_in_time": "1631-09-17T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

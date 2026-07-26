@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q251269",
+      "title": "WikiData Q-item: Q251269",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q251269"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Hersteller von Maschinen und Anlagen für die Tabakindustrie"
+    },
+    "descriptions": {
+      "en": "Hersteller von Maschinen und Anlagen für die Tabakindustrie"
+    },
+    "domain": "general",
+    "id": "Q251269",
+    "labels": {
+      "en": "Hauni Maschinenbau AG"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

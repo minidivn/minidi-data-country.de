@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q458172",
+      "title": "WikiData Q-item: Q458172",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q458172"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Zufluss der Oste"
+    },
+    "descriptions": {
+      "en": "Zufluss der Oste"
+    },
+    "domain": "general",
+    "id": "Q458172",
+    "labels": {
+      "en": "Twiste"
+    },
+    "properties": {
+      "coordinates": "Point(9.249236111 53.325902777)"
+    },
+    "type": "place"
+  }
+}

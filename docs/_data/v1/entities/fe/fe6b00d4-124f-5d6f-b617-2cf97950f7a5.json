@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q436060",
+      "title": "WikiData Q-item: Q436060",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q436060"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Private Krankenversicherung mit Sitz in Vechta"
+    },
+    "descriptions": {
+      "en": "Private Krankenversicherung mit Sitz in Vechta"
+    },
+    "domain": "general",
+    "id": "Q436060",
+    "labels": {
+      "en": "Alte Oldenburger Krankenversicherung AG"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

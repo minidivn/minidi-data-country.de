@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2494",
+      "title": "WikiData Q-item: Q2494",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2494"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "265. Papst der römisch-katholischen Kirche"
+    },
+    "descriptions": {
+      "en": "265. Papst der römisch-katholischen Kirche"
+    },
+    "domain": "general",
+    "id": "Q2494",
+    "labels": {
+      "en": "Benedikt XVI."
+    },
+    "properties": {
+      "birth_date": "1927-04-16T00:00:00Z",
+      "death_date": "2022-12-31T00:00:00Z",
+      "occupation": "Erzbischof"
+    },
+    "type": "person"
+  }
+}

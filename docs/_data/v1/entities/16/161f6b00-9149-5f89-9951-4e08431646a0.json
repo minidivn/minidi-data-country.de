@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q135442076",
+      "title": "WikiData Q-item: Q135442076",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q135442076"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Am 24. April 1647 plünderten schwedische Soldaten Gruibingen und steckten es in Brand. 130 Häuser und Scheunen brannten nieder"
+    },
+    "descriptions": {
+      "en": "Am 24. April 1647 plünderten schwedische Soldaten Gruibingen und steckten es in Brand. 130 Häuser und Scheunen brannten nieder"
+    },
+    "domain": "general",
+    "id": "Q135442076",
+    "labels": {
+      "en": "Gruibinger Großbrand (1647)"
+    },
+    "properties": {
+      "point_in_time": "1647-04-24T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

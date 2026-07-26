@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q588528",
+      "title": "WikiData Q-item: Q588528",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q588528"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "binationales Molkereiunternehmen"
+    },
+    "descriptions": {
+      "en": "binationales Molkereiunternehmen"
+    },
+    "domain": "general",
+    "id": "Q588528",
+    "labels": {
+      "en": "FrieslandCampina Germany"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

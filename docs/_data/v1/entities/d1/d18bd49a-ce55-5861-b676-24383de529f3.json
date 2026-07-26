@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q400482",
+      "title": "WikiData Q-item: Q400482",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q400482"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Kinzig"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Kinzig"
+    },
+    "domain": "general",
+    "id": "Q400482",
+    "labels": {
+      "en": "Ahlersbach (Kinzig, Schlüchtern-Herolz)"
+    },
+    "properties": {
+      "coordinates": "Point(9.55916 50.3453)"
+    },
+    "type": "place"
+  }
+}

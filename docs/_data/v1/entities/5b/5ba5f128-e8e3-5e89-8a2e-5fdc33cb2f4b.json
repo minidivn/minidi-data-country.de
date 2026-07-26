@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q637220",
+      "title": "WikiData Q-item: Q637220",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q637220"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Versammlung wichtiger Kirchenvertreter des Fränkischen Reichs"
+    },
+    "descriptions": {
+      "en": "Versammlung wichtiger Kirchenvertreter des Fränkischen Reichs"
+    },
+    "domain": "general",
+    "id": "Q637220",
+    "labels": {
+      "en": "Synode von Frankfurt 794"
+    },
+    "properties": {
+      "point_in_time": "0794-06-05T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

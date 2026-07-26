@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q314228",
+      "title": "WikiData Q-item: Q314228",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q314228"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "höchster Berg im Rothaargebirge und in Nordrhein-Westfalen (843 m)"
+    },
+    "descriptions": {
+      "en": "höchster Berg im Rothaargebirge und in Nordrhein-Westfalen (843 m)"
+    },
+    "domain": "general",
+    "id": "Q314228",
+    "labels": {
+      "en": "Langenberg"
+    },
+    "properties": {
+      "coordinates": "Point(8.558333333 51.276388888)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q51927",
+      "title": "WikiData Q-item: Q51927",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q51927"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutsche Schriftstellerin und Germanistin"
+    },
+    "descriptions": {
+      "en": "deutsche Schriftstellerin und Germanistin"
+    },
+    "domain": "general",
+    "id": "Q51927",
+    "labels": {
+      "de": "Waltraud Schiffels",
+      "en": "Waltraud Schiffels"
+    },
+    "properties": {
+      "birth_date": "1944-01-01T00:00:00Z",
+      "death_date": "2021-02-24T00:00:00Z",
+      "occupation": "Schriftsteller"
+    },
+    "type": "person"
+  }
+}

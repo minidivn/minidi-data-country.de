@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2252048",
+      "title": "WikiData Q-item: Q2252048",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2252048"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "neolithic culture"
+    },
+    "descriptions": {
+      "en": "neolithic culture"
+    },
+    "domain": "general",
+    "id": "Q2252048",
+    "labels": {
+      "en": "Schussenrieder Gruppe"
+    },
+    "properties": {
+      "end_time": "-3699-01-01T00:00:00Z",
+      "start_time": "-4200-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

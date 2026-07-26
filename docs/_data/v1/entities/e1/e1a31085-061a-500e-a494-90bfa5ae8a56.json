@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q105711624",
+      "title": "WikiData Q-item: Q105711624",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q105711624"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Grenze im Grauen Forst (Bödigheim) mit mehr als 20 Grenzsteinen, basiert auf einem Urteil eines Schiedsgerichts in Lauda und markiert wie weit die Waldhausener ihr Vieh treiben durften. Nördlich davon begann das Territorium der Rüdt von Collenberg."
+    },
+    "descriptions": {
+      "en": "Grenze im Grauen Forst (Bödigheim) mit mehr als 20 Grenzsteinen, basiert auf einem Urteil eines Schiedsgerichts in Lauda und markiert wie weit die Waldhausener ihr Vieh treiben durften. Nördlich davon begann das Territorium der Rüdt von Collenberg."
+    },
+    "domain": "general",
+    "id": "Q105711624",
+    "labels": {
+      "en": "Waidsteingrenze Bödigheim"
+    },
+    "properties": {
+      "start_time": "1565-09-14T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q603622",
+      "title": "WikiData Q-item: Q603622",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q603622"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historische Zitadelle an der Kasanka"
+    },
+    "descriptions": {
+      "en": "historische Zitadelle an der Kasanka"
+    },
+    "domain": "general",
+    "id": "Q603622",
+    "labels": {
+      "en": "Kasaner Kreml"
+    },
+    "properties": {
+      "coordinates": "Point(49.10724 55.797442)"
+    },
+    "type": "place"
+  }
+}

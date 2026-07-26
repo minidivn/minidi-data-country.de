@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q244529",
+      "title": "WikiData Q-item: Q244529",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q244529"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutsches Maschinenbau-Unternehmen mit Sitz in Ulm"
+    },
+    "descriptions": {
+      "en": "deutsches Maschinenbau-Unternehmen mit Sitz in Ulm"
+    },
+    "domain": "general",
+    "id": "Q244529",
+    "labels": {
+      "en": "Zwick Roell"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

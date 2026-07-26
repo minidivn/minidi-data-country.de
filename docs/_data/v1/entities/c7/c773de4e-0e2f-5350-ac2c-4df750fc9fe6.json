@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q25973",
+      "title": "WikiData Q-item: Q25973",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q25973"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutsch-schweizerischer Schriftsteller und Literatur-Nobelpreisträger (1877-1962)"
+    },
+    "descriptions": {
+      "en": "deutsch-schweizerischer Schriftsteller und Literatur-Nobelpreisträger (1877-1962)"
+    },
+    "domain": "general",
+    "id": "Q25973",
+    "labels": {
+      "en": "Hermann Hesse"
+    },
+    "properties": {
+      "birth_date": "1877-07-02T00:00:00Z",
+      "death_date": "1962-08-09T00:00:00Z",
+      "occupation": "Nobelpreisträger"
+    },
+    "type": "person"
+  }
+}

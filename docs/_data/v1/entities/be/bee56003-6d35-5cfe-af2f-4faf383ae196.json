@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1153900",
+      "title": "WikiData Q-item: Q1153900",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1153900"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Unternehmen im Facility Management"
+    },
+    "descriptions": {
+      "en": "Unternehmen im Facility Management"
+    },
+    "domain": "general",
+    "id": "Q1153900",
+    "labels": {
+      "en": "Strabag Building and Industrial Services"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

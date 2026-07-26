@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q456402",
+      "title": "WikiData Q-item: Q456402",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q456402"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Verkehrsbetriebe der Stadt München"
+    },
+    "descriptions": {
+      "en": "Verkehrsbetriebe der Stadt München"
+    },
+    "domain": "general",
+    "id": "Q456402",
+    "labels": {
+      "en": "Münchner Verkehrsgesellschaft mbH (MVG)"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

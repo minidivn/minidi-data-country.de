@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1750490",
+      "title": "WikiData Q-item: Q1750490",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1750490"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Urkunde vom Juli 1658 über die Grenzziehungen zwischen dem Fürstentum Lippe und dem Fürstbistum Paderborn"
+    },
+    "descriptions": {
+      "en": "Urkunde vom Juli 1658 über die Grenzziehungen zwischen dem Fürstentum Lippe und dem Fürstbistum Paderborn"
+    },
+    "domain": "general",
+    "id": "Q1750490",
+    "labels": {
+      "en": "Lippspringischer Originalvergleich"
+    },
+    "properties": {
+      "point_in_time": "1658-07-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

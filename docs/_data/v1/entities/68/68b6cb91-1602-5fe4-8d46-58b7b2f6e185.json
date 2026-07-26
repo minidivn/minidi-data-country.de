@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1650",
+      "title": "WikiData Q-item: Q1650",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1650"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "größter ausschließlich deutscher Strom zur Nordsee, entsteht aus dem Zusammenfluss von Werra und Fulda"
+    },
+    "descriptions": {
+      "en": "größter ausschließlich deutscher Strom zur Nordsee, entsteht aus dem Zusammenfluss von Werra und Fulda"
+    },
+    "domain": "general",
+    "id": "Q1650",
+    "labels": {
+      "en": "Weser"
+    },
+    "properties": {
+      "coordinates": "Point(9.64806 51.42139)"
+    },
+    "type": "place"
+  }
+}

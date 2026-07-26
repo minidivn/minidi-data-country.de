@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q593870",
+      "title": "WikiData Q-item: Q593870",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q593870"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Wälder im Nördlichen Uralgebirge in der russischen Republik Komi"
+    },
+    "descriptions": {
+      "en": "Wälder im Nördlichen Uralgebirge in der russischen Republik Komi"
+    },
+    "domain": "general",
+    "id": "Q593870",
+    "labels": {
+      "en": "Urwälder von Komi"
+    },
+    "properties": {
+      "coordinates": "Point(60.15 65.06666667)"
+    },
+    "type": "place"
+  }
+}

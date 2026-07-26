@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q265176",
+      "title": "WikiData Q-item: Q265176",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q265176"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "weltweit tätiges Photovoltaikunternehmen"
+    },
+    "descriptions": {
+      "en": "weltweit tätiges Photovoltaikunternehmen"
+    },
+    "domain": "general",
+    "id": "Q265176",
+    "labels": {
+      "en": "Q Cells"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q137907117",
+      "title": "WikiData Q-item: Q137907117",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q137907117"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Verwaltungseinheit in Baden bis 1809 s.a https://regionalia.blb-karlsruhe.de/frontdoor/deliver/index/docId/26759/file/BLB_Gutmann_Amt_Stollhofen.pdf"
+    },
+    "descriptions": {
+      "en": "Verwaltungseinheit in Baden bis 1809 s.a https://regionalia.blb-karlsruhe.de/frontdoor/deliver/index/docId/26759/file/BLB_Gutmann_Amt_Stollhofen.pdf"
+    },
+    "domain": "general",
+    "id": "Q137907117",
+    "labels": {
+      "en": "Amt Stollhofen"
+    },
+    "properties": {
+      "end_time": "1808-12-31T00:00:00Z",
+      "start_time": "1300-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

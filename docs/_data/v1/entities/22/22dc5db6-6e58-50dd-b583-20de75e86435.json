@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1715",
+      "title": "WikiData Q-item: Q1715",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1715"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Hauptstadt von Niedersachsen, Deutschland"
+    },
+    "descriptions": {
+      "en": "Hauptstadt von Niedersachsen, Deutschland"
+    },
+    "domain": "general",
+    "id": "Q1715",
+    "labels": {
+      "en": "Hannover"
+    },
+    "properties": {
+      "coordinates": "Point(9.738611111 52.374444444)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q20633",
+      "title": "WikiData Q-item: Q20633",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20633"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Hochsand im nordfriesischen Wattenmeer"
+    },
+    "descriptions": {
+      "en": "Hochsand im nordfriesischen Wattenmeer"
+    },
+    "domain": "general",
+    "id": "Q20633",
+    "labels": {
+      "en": "Japsand"
+    },
+    "properties": {
+      "coordinates": "Point(8.468333333 54.566944444)"
+    },
+    "type": "place"
+  }
+}

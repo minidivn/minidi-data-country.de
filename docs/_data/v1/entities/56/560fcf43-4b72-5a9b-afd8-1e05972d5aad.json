@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q53404",
+      "title": "WikiData Q-item: Q53404",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q53404"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Historiker mit Schwerpunkt DDR-Forschung"
+    },
+    "descriptions": {
+      "en": "deutscher Historiker mit Schwerpunkt DDR-Forschung"
+    },
+    "domain": "general",
+    "id": "Q53404",
+    "labels": {
+      "de": "Stefan Wolle",
+      "en": "Stefan Wolle"
+    },
+    "properties": {
+      "birth_date": "1950-10-22T00:00:00Z",
+      "occupation": "Historiker"
+    },
+    "type": "person"
+  }
+}

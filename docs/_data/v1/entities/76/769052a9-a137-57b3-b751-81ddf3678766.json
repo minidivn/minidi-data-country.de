@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q479269",
+      "title": "WikiData Q-item: Q479269",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q479269"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sportverein aus der ostwestfälischen Stadt Rheda-Wiedenbrück im Kreis Gütersloh"
+    },
+    "descriptions": {
+      "en": "Sportverein aus der ostwestfälischen Stadt Rheda-Wiedenbrück im Kreis Gütersloh"
+    },
+    "domain": "general",
+    "id": "Q479269",
+    "labels": {
+      "en": "SC Wiedenbrück"
+    },
+    "properties": {},
+    "type": "person"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4168",
+      "title": "WikiData Q-item: Q4168",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4168"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Felswand am Mittelrhein"
+    },
+    "descriptions": {
+      "en": "Felswand am Mittelrhein"
+    },
+    "domain": "general",
+    "id": "Q4168",
+    "labels": {
+      "en": "Loreley"
+    },
+    "properties": {
+      "coordinates": "Point(7.728888888 50.139444444)"
+    },
+    "type": "place"
+  }
+}

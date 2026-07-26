@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q15833135",
+      "title": "WikiData Q-item: Q15833135",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q15833135"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Zusammensetzung des Rates von Lübeck im Jahr 1665"
+    },
+    "descriptions": {
+      "en": "Zusammensetzung des Rates von Lübeck im Jahr 1665"
+    },
+    "domain": "general",
+    "id": "Q15833135",
+    "labels": {
+      "en": "Lübecker Rat 1665"
+    },
+    "properties": {
+      "point_in_time": "1665-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

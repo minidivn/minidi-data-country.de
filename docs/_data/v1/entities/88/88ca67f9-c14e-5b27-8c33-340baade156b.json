@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1684",
+      "title": "WikiData Q-item: Q1684",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1684"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "linker Nebenfluss der Havel"
+    },
+    "descriptions": {
+      "en": "linker Nebenfluss der Havel"
+    },
+    "domain": "general",
+    "id": "Q1684",
+    "labels": {
+      "en": "Spree"
+    },
+    "properties": {
+      "coordinates": "Point(13.2089 52.5361)"
+    },
+    "type": "place"
+  }
+}

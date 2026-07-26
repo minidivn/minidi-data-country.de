@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q200680",
+      "title": "WikiData Q-item: Q200680",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q200680"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Wieda"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Wieda"
+    },
+    "domain": "general",
+    "id": "Q200680",
+    "labels": {
+      "en": "Uffe"
+    },
+    "properties": {
+      "coordinates": "Point(10.54099 51.6268)"
+    },
+    "type": "place"
+  }
+}

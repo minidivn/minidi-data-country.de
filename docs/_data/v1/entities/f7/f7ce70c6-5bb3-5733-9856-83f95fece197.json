@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q122421806",
+      "title": "WikiData Q-item: Q122421806",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q122421806"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "436-439 war between the Visigoths and the Western Roman Empire"
+    },
+    "descriptions": {
+      "en": "436-439 war between the Visigoths and the Western Roman Empire"
+    },
+    "domain": "general",
+    "id": "Q122421806",
+    "labels": {
+      "en": "Gothic War (436-439)"
+    },
+    "properties": {
+      "end_time": "0439-01-01T00:00:00Z",
+      "start_time": "0436-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7510279",
+      "title": "WikiData Q-item: Q7510279",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7510279"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1017 siege in the German–Polish War"
+    },
+    "descriptions": {
+      "en": "1017 siege in the German–Polish War"
+    },
+    "domain": "general",
+    "id": "Q7510279",
+    "labels": {
+      "en": "Siege of Niemcza"
+    },
+    "properties": {
+      "point_in_time": "1017-08-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

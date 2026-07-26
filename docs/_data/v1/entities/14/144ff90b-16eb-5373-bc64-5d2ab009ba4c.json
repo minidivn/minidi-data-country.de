@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q53623",
+      "title": "WikiData Q-item: Q53623",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q53623"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Botaniker (1853-1937)"
+    },
+    "descriptions": {
+      "en": "deutscher Botaniker (1853-1937)"
+    },
+    "domain": "general",
+    "id": "Q53623",
+    "labels": {
+      "de": "Albert Peter",
+      "en": "Albert Peter"
+    },
+    "properties": {
+      "birth_date": "1853-08-21T00:00:00Z",
+      "death_date": "1937-10-04T00:00:00Z",
+      "occupation": "Pflanzensammler"
+    },
+    "type": "person"
+  }
+}

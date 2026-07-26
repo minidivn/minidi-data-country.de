@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16130",
+      "title": "WikiData Q-item: Q16130",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16130"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Stadt im Saarland"
+    },
+    "descriptions": {
+      "en": "Stadt im Saarland"
+    },
+    "domain": "general",
+    "id": "Q16130",
+    "labels": {
+      "de": "Merzig",
+      "en": "Merzig"
+    },
+    "properties": {
+      "coordinates": "Point(6.6375 49.442222222)"
+    },
+    "type": "place"
+  }
+}

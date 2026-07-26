@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16459",
+      "title": "WikiData Q-item: Q16459",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16459"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Naturdenkmal im Staatsbad Brückenau"
+    },
+    "descriptions": {
+      "en": "Naturdenkmal im Staatsbad Brückenau"
+    },
+    "domain": "general",
+    "id": "Q16459",
+    "labels": {
+      "de": "König-Ludwig-Eiche",
+      "en": "König-Ludwig-Eiche"
+    },
+    "properties": {
+      "coordinates": "Point(9.7453 50.303972222)"
+    },
+    "type": "place"
+  }
+}

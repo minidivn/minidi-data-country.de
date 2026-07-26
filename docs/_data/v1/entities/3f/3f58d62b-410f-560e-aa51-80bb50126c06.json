@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q474981",
+      "title": "WikiData Q-item: Q474981",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q474981"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Deutscher Zigarettenhersteller Anfang des 20. Jahrhunderts"
+    },
+    "descriptions": {
+      "en": "Deutscher Zigarettenhersteller Anfang des 20. Jahrhunderts"
+    },
+    "domain": "general",
+    "id": "Q474981",
+    "labels": {
+      "en": "Waldorf-Astoria-Zigarettenfabrik"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

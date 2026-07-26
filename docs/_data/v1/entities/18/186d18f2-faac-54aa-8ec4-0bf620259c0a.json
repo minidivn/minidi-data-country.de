@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q198808",
+      "title": "WikiData Q-item: Q198808",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q198808"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nordostausläufer des Stolzhäuser Rückens im Stölzinger Gebirge"
+    },
+    "descriptions": {
+      "en": "Nordostausläufer des Stolzhäuser Rückens im Stölzinger Gebirge"
+    },
+    "domain": "general",
+    "id": "Q198808",
+    "labels": {
+      "en": "Ziegenküppel"
+    },
+    "properties": {
+      "coordinates": "Point(9.85271 51.1512)"
+    },
+    "type": "place"
+  }
+}

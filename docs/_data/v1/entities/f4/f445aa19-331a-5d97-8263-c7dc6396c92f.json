@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q160380",
+      "title": "WikiData Q-item: Q160380",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q160380"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "See in Sachsen, Landkreis Görlitz"
+    },
+    "descriptions": {
+      "en": "See in Sachsen, Landkreis Görlitz"
+    },
+    "domain": "general",
+    "id": "Q160380",
+    "labels": {
+      "en": "Halbendorfer See"
+    },
+    "properties": {
+      "coordinates": "Point(14.570833333 51.54)"
+    },
+    "type": "place"
+  }
+}

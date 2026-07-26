@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q55004",
+      "title": "WikiData Q-item: Q55004",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q55004"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutsch-amerikanischer Komponist"
+    },
+    "descriptions": {
+      "en": "deutsch-amerikanischer Komponist"
+    },
+    "domain": "general",
+    "id": "Q55004",
+    "labels": {
+      "de": "Kurt Weill",
+      "en": "Kurt Weill"
+    },
+    "properties": {
+      "birth_date": "1900-03-02T00:00:00Z",
+      "death_date": "1950-04-03T00:00:00Z",
+      "occupation": "Musiker"
+    },
+    "type": "person"
+  }
+}

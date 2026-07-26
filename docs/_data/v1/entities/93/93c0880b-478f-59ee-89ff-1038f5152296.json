@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q140316518",
+      "title": "WikiData Q-item: Q140316518",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140316518"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "religious community and congregation in Sinsheim, Germany"
+    },
+    "descriptions": {
+      "en": "religious community and congregation in Sinsheim, Germany"
+    },
+    "domain": "general",
+    "id": "Q140316518",
+    "labels": {
+      "en": "Mennonitengemeinde der Immelhausen"
+    },
+    "properties": {
+      "end_time": "1912-01-01T00:00:00Z",
+      "start_time": "1709-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

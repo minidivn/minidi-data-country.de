@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q43757046",
+      "title": "WikiData Q-item: Q43757046",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q43757046"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "katholische Pfarrkirche in Schönenberg-Kübelberg"
+    },
+    "descriptions": {
+      "en": "katholische Pfarrkirche in Schönenberg-Kübelberg"
+    },
+    "domain": "general",
+    "id": "Q43757046",
+    "labels": {
+      "en": "Pfarrkirche St. Valentin (Kübelberg)"
+    },
+    "properties": {
+      "start_time": "1702-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

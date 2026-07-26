@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q20557",
+      "title": "WikiData Q-item: Q20557",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20557"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Textdichter, Zeichner und Karikaturist"
+    },
+    "descriptions": {
+      "en": "deutscher Textdichter, Zeichner und Karikaturist"
+    },
+    "domain": "general",
+    "id": "Q20557",
+    "labels": {
+      "en": "Hans Bradtke"
+    },
+    "properties": {
+      "birth_date": "1920-07-21T00:00:00Z",
+      "death_date": "1997-05-11T00:00:00Z",
+      "occupation": "Karikaturist"
+    },
+    "type": "person"
+  }
+}

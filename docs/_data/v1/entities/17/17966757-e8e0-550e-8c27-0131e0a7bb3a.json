@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q431408",
+      "title": "WikiData Q-item: Q431408",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q431408"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nebenfluss der Fulda"
+    },
+    "descriptions": {
+      "en": "Nebenfluss der Fulda"
+    },
+    "domain": "general",
+    "id": "Q431408",
+    "labels": {
+      "en": "Giesel"
+    },
+    "properties": {
+      "coordinates": "Point(9.60158 50.49632)"
+    },
+    "type": "place"
+  }
+}

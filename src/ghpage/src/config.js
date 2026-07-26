@@ -8,7 +8,7 @@ export default {
   ],
   "defaultLanguage": "en",
   "title": "Germany Knowledge Graph",
-  "subtitle": "Exploring 108 WikiData entities: history, geography, people & culture",
+  "subtitle": "Exploring 5,039 WikiData entities: history, geography, people & culture",
   "splashTitle": "🇩🇪 MiniDi",
   "splashMessage": "Loading Germany knowledge graph...",
   "mapCenter": [

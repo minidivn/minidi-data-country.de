@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q174645",
+      "title": "WikiData Q-item: Q174645",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q174645"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Alpensee in Bayern"
+    },
+    "descriptions": {
+      "en": "Alpensee in Bayern"
+    },
+    "domain": "general",
+    "id": "Q174645",
+    "labels": {
+      "en": "Walchensee"
+    },
+    "properties": {
+      "coordinates": "Point(11.346111111 47.593888888)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4457",
+      "title": "WikiData Q-item: Q4457",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4457"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Fußballspieler, -trainer und -funktionär (1945–2024)"
+    },
+    "descriptions": {
+      "en": "deutscher Fußballspieler, -trainer und -funktionär (1945–2024)"
+    },
+    "domain": "general",
+    "id": "Q4457",
+    "labels": {
+      "en": "Franz Beckenbauer"
+    },
+    "properties": {
+      "birth_date": "1945-09-11T00:00:00Z",
+      "death_date": "2024-01-07T00:00:00Z",
+      "occupation": "Musiker"
+    },
+    "type": "person"
+  }
+}

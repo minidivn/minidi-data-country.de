@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q52260",
+      "title": "WikiData Q-item: Q52260",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q52260"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Ingenieur und Manager"
+    },
+    "descriptions": {
+      "en": "deutscher Ingenieur und Manager"
+    },
+    "domain": "general",
+    "id": "Q52260",
+    "labels": {
+      "de": "Karl Neuenhofer",
+      "en": "Karl Neuenhofer"
+    },
+    "properties": {
+      "birth_date": "1883-06-21T00:00:00Z",
+      "death_date": "1963-05-07T00:00:00Z",
+      "occupation": "Ingenieur"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q757170",
+      "title": "WikiData Q-item: Q757170",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q757170"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deutscher Fußballverein (1973-2002)"
+    },
+    "descriptions": {
+      "en": "deutscher Fußballverein (1973-2002)"
+    },
+    "domain": "general",
+    "id": "Q757170",
+    "labels": {
+      "en": "Atlas Delmenhorst"
+    },
+    "properties": {},
+    "type": "person"
+  }
+}

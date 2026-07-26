@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q293839",
+      "title": "WikiData Q-item: Q293839",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q293839"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Gemeinschaftsunternehmen der öffentlichen Versicherungen und Partner der Sparkassen-Finanzgruppe"
+    },
+    "descriptions": {
+      "en": "Gemeinschaftsunternehmen der öffentlichen Versicherungen und Partner der Sparkassen-Finanzgruppe"
+    },
+    "domain": "general",
+    "id": "Q293839",
+    "labels": {
+      "en": "ÖRAG Rechtsschutzversicherungs-AG"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

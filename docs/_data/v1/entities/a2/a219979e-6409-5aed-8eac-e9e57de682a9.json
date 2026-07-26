@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.de",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q62655310",
+      "title": "WikiData Q-item: Q62655310",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q62655310"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "peace treaty between Holy Roman Empire and Sweden, signed in 1648"
+    },
+    "descriptions": {
+      "en": "peace treaty between Holy Roman Empire and Sweden, signed in 1648"
+    },
+    "domain": "general",
+    "id": "Q62655310",
+    "labels": {
+      "en": "Osnabrücker Friedensvertrag"
+    },
+    "properties": {
+      "point_in_time": "1648-10-24T00:00:00Z"
+    },
+    "type": "event"
+  }
+}
