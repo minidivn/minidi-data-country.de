@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Fußballspieler und Fußballfunktionär (1946–2024)"
+      "markdown": "Bernd Hölzenbein (* 9. März 1946 in Dehrn, heute Stadtteil von Runkel; † 15. April 2024) war ein deutscher Fußballspieler und Fußballfunktionär. Hölzenbein wurde mit der deutschen Nationalmannschaft 1974 Weltmeister und erreichte mit ihr das Finale der Europameisterschaft von 1976. Mit Eintracht Frankfurt, für die er in 420 Bundesligaspielen 160 Tore erzielte, womit er Rekordtorschütze des Vereins ist, gewann er im Jahr 1980 den UEFA-Pokal und dreimal den DFB-Pokal. Von 1988 bis 1994 war Hölzenbein Vizepräsident von Eintracht Frankfurt."
     },
     "descriptions": {
       "en": "deutscher Fußballspieler und Fußballfunktionär (1946–2024)"
@@ -33,12 +33,14 @@
     "domain": "general",
     "id": "Q44858",
     "labels": {
+      "de": "Bernd Hölzenbein",
       "en": "Bernd Hölzenbein"
     },
     "properties": {
       "birth_date": "1946-03-09T00:00:00Z",
       "death_date": "2024-04-15T00:00:00Z",
-      "occupation": "Fußballspieler"
+      "occupation": "Fußballspieler",
+      "summary": "Bernd Hölzenbein (* 9. März 1946 in Dehrn, heute Stadtteil von Runkel; † 15. April 2024) war ein deutscher Fußballspieler und Fußballfunktionär. Hölzenbein wurde mit der deutschen Nationalmannschaft 1974 Weltmeister und erreichte mit ihr das Finale der Europameisterschaft von 1976. Mit Eintracht Frankfurt, für die er in 420 Bundesligaspielen 160 Tore erzielte, womit er Rekordtorschütze des Vereins ist, gewann er im Jahr 1980 den UEFA-Pokal und dreimal den DFB-Pokal. Von 1988 bis 1994 war Hölzenbein Vizepräsident von Eintracht Frankfurt."
     },
     "type": "person"
   }

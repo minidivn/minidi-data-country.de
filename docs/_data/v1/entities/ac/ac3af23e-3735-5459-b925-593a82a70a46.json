@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Volksschauspieler"
+      "markdown": "Adolf Gustav Rupprecht Maximilian „Gustl“ Bayrhammer (* 12. Februar 1922 in München; † 24. April 1993 in Krailling) war ein deutscher Staatsschauspieler und Volksschauspieler. Er wurde vor allem mit der Verkörperung bayerischer Figuren identifiziert, bewies sich bei Film, Fernsehen und Theater aber als wandlungsfähiger Darsteller. Zu seinen bekanntesten Rollen zählen Meister Eder in der Serie Meister Eder und sein Pumuckl und der Kommissar Melchior Veigl im Münchner Tatort."
     },
     "descriptions": {
       "en": "deutscher Volksschauspieler"
@@ -33,12 +33,14 @@
     "domain": "general",
     "id": "Q43774",
     "labels": {
+      "de": "Gustl Bayrhammer",
       "en": "Gustl Bayrhammer"
     },
     "properties": {
       "birth_date": "1922-02-12T00:00:00Z",
       "death_date": "1993-04-24T00:00:00Z",
-      "occupation": "Musiker"
+      "occupation": "Musiker",
+      "summary": "Adolf Gustav Rupprecht Maximilian „Gustl“ Bayrhammer (* 12. Februar 1922 in München; † 24. April 1993 in Krailling) war ein deutscher Staatsschauspieler und Volksschauspieler. Er wurde vor allem mit der Verkörperung bayerischer Figuren identifiziert, bewies sich bei Film, Fernsehen und Theater aber als wandlungsfähiger Darsteller. Zu seinen bekanntesten Rollen zählen Meister Eder in der Serie Meister Eder und sein Pumuckl und der Kommissar Melchior Veigl im Münchner Tatort."
     },
     "type": "person"
   }

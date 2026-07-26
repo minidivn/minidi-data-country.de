@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "brasilianischer Fußballspieler"
+      "markdown": "Giovane Élber (* 23. Juli 1972 in Londrina; bürgerlich Élber de Souza) ist ein ehemaliger brasilianischer Fußballspieler, der seit 2023 auch deutscher Staatsbürger ist. Der Stürmer spielte 260-mal für den VfB Stuttgart, den FC Bayern München und Borussia Mönchengladbach in der Bundesliga und zählt mit 133 Toren zu den besten ausländischen Torschützen der Ligageschichte. Der Bundesliga-Torschützenkönig von 2003 wurde mit dem FC Bayern München u. a. je viermal deutscher Meister und DFB-Pokal-Sieger sowie 2001 Champions-League-Sieger. Élber spielte zudem zwischen 1998 und 2001 15-mal für die brasilianische Nationalmannschaft, nahm aufgrund der hohen Konkurrenz im Sturm jedoch an keiner Weltmeisterschaft teil."
     },
     "descriptions": {
       "en": "brasilianischer Fußballspieler"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q44815",
     "labels": {
+      "de": "Giovane Élber",
       "en": "Giovane Élber"
     },
     "properties": {
       "birth_date": "1972-07-23T00:00:00Z",
-      "occupation": "Fußballspieler"
+      "occupation": "Fußballspieler",
+      "summary": "Giovane Élber (* 23. Juli 1972 in Londrina; bürgerlich Élber de Souza) ist ein ehemaliger brasilianischer Fußballspieler, der seit 2023 auch deutscher Staatsbürger ist. Der Stürmer spielte 260-mal für den VfB Stuttgart, den FC Bayern München und Borussia Mönchengladbach in der Bundesliga und zählt mit 133 Toren zu den besten ausländischen Torschützen der Ligageschichte. Der Bundesliga-Torschützenkönig von 2003 wurde mit dem FC Bayern München u. a. je viermal deutscher Meister und DFB-Pokal-Sieger sowie 2001 Champions-League-Sieger. Élber spielte zudem zwischen 1998 und 2001 15-mal für die brasilianische Nationalmannschaft, nahm aufgrund der hohen Konkurrenz im Sturm jedoch an keiner Weltmeisterschaft teil."
     },
     "type": "person"
   }

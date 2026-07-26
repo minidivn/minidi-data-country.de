@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Humorist (1923–2011)"
+      "markdown": "Loriot [lo.ʀi̯ˈ.o], eigentlich Bernhard-Viktor Christoph-Carl von Bülow [ˈbyː.lo], genannt Vicco von Bülow  (* 12. November 1923 in Brandenburg an der Havel; † 22. August 2011 in Münsing-Ammerland), war einer der bekanntesten deutschen Humoristen, der von den 1950er Jahren an bis zu seinem Tod in Literatur, Fernsehen, Theater und Film tätig war. Loriot etablierte sich zunächst als Cartoonist, später arbeitete er auch als Schauspieler, Drehbuchautor, Trickfilmer, Moderator, Regisseur sowie Bühnen- und Kostümbildner. 2003 wurde er zum Honorarprofessor für Theaterkunst an der Berliner Universität der Künste ernannt.\nDer Künstlername Loriot ist das französische Wort für den Pirol, das Wappentier der Familie von Bülow. Im mecklenburgischen Volksmund wurde er früher auch „Vogel Bülow“ genannt."
     },
     "descriptions": {
       "en": "deutscher Humorist (1923–2011)"
@@ -33,12 +33,14 @@
     "domain": "general",
     "id": "Q44736",
     "labels": {
+      "de": "Loriot",
       "en": "Loriot"
     },
     "properties": {
       "birth_date": "1923-11-12T00:00:00Z",
       "death_date": "2011-08-22T00:00:00Z",
-      "occupation": "Komiker"
+      "occupation": "Komiker",
+      "summary": "Loriot [lo.ʀi̯ˈ.o], eigentlich Bernhard-Viktor Christoph-Carl von Bülow [ˈbyː.lo], genannt Vicco von Bülow  (* 12. November 1923 in Brandenburg an der Havel; † 22. August 2011 in Münsing-Ammerland), war einer der bekanntesten deutschen Humoristen, der von den 1950er Jahren an bis zu seinem Tod in Literatur, Fernsehen, Theater und Film tätig war. Loriot etablierte sich zunächst als Cartoonist, später arbeitete er auch als Schauspieler, Drehbuchautor, Trickfilmer, Moderator, Regisseur sowie Bühnen- und Kostümbildner. 2003 wurde er zum Honorarprofessor für Theaterkunst an der Berliner Universität der Künste ernannt.\nDer Künstlername Loriot ist das französische Wort für den Pirol, das Wappentier der Familie von Bülow. Im mecklenburgischen Volksmund wurde er früher auch „Vogel Bülow“ genannt."
     },
     "type": "person"
   }

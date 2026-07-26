@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Geistlicher, emeritierter Erzbischof von München und Freising, Kardinal der römisch-katholischen Kirche"
+      "markdown": "Friedrich Kardinal Wetter (* 20. Februar 1928 in Landau in der Pfalz) ist ein deutscher katholischer Theologe und Geistlicher. Er wurde 1968 zum Bischof geweiht und 1985 zum Kardinal erhoben. Von 1968 bis 1982 stand er der Diözese Speyer vor und war anschließend bis zu seiner Emeritierung im Jahr 2008 Erzbischof von München und Freising.\n\n"
     },
     "descriptions": {
       "en": "deutscher Geistlicher, emeritierter Erzbischof von München und Freising, Kardinal der römisch-katholischen Kirche"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q45034",
     "labels": {
+      "de": "Friedrich Wetter",
       "en": "Friedrich Wetter"
     },
     "properties": {
       "birth_date": "1928-02-20T00:00:00Z",
-      "occupation": "Erzbischof"
+      "occupation": "Erzbischof",
+      "summary": "Friedrich Kardinal Wetter (* 20. Februar 1928 in Landau in der Pfalz) ist ein deutscher katholischer Theologe und Geistlicher. Er wurde 1968 zum Bischof geweiht und 1985 zum Kardinal erhoben. Von 1968 bis 1982 stand er der Diözese Speyer vor und war anschließend bis zu seiner Emeritierung im Jahr 2008 Erzbischof von München und Freising.\n\n"
     },
     "type": "person"
   }

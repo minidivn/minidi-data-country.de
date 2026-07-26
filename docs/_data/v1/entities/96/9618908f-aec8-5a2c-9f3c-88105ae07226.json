@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Fußballspieler"
+      "markdown": "Wolfgang Overath (* 29. September 1943 in Siegburg) ist ein ehemaliger deutscher Fußballprofi. Der Mittelfeldspieler war von 1962 bis 1977 ausschließlich für den 1. FC Köln aktiv und ist mit 542 Pflichtspieleinsätzen Rekordspieler des Klubs. Er zählt zu den bedeutendsten deutschen Fußballern seiner Generation. Mit der deutschen Nationalmannschaft wurde er 1972 Europameister und 1974 Weltmeister. Nach dem Ende seiner aktiven Karriere engagierte sich Overath als Fußballfunktionär und war von 2004 bis 2011 Vereinspräsident des 1. FC Köln."
     },
     "descriptions": {
       "en": "deutscher Fußballspieler"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q44688",
     "labels": {
+      "de": "Wolfgang Overath",
       "en": "Wolfgang Overath"
     },
     "properties": {
       "birth_date": "1943-09-29T00:00:00Z",
-      "occupation": "Fußballspieler"
+      "occupation": "Fußballspieler",
+      "summary": "Wolfgang Overath (* 29. September 1943 in Siegburg) ist ein ehemaliger deutscher Fußballprofi. Der Mittelfeldspieler war von 1962 bis 1977 ausschließlich für den 1. FC Köln aktiv und ist mit 542 Pflichtspieleinsätzen Rekordspieler des Klubs. Er zählt zu den bedeutendsten deutschen Fußballern seiner Generation. Mit der deutschen Nationalmannschaft wurde er 1972 Europameister und 1974 Weltmeister. Nach dem Ende seiner aktiven Karriere engagierte sich Overath als Fußballfunktionär und war von 2004 bis 2011 Vereinspräsident des 1. FC Köln."
     },
     "type": "person"
   }

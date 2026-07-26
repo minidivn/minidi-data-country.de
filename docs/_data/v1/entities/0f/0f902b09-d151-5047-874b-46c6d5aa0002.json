@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Maler, Grafiker und Illustrator"
+      "markdown": "Walther Klemm (* 18. Juni 1883 in Karlsbad, Österreich-Ungarn; † 11. August 1957 in Weimar) war ein deutscher Maler, Grafiker, Illustrator und Hochschullehrer."
     },
     "descriptions": {
       "en": "deutscher Maler, Grafiker und Illustrator"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1883-06-18T00:00:00Z",
       "death_date": "1957-08-11T00:00:00Z",
-      "occupation": "Lehrer"
+      "occupation": "Lehrer",
+      "summary": "Walther Klemm (* 18. Juni 1883 in Karlsbad, Österreich-Ungarn; † 11. August 1957 in Weimar) war ein deutscher Maler, Grafiker, Illustrator und Hochschullehrer."
     },
     "type": "person"
   }

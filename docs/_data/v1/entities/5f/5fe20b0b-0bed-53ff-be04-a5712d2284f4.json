@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Politiker (CSU), MdL, MdB, Landesminister"
+      "markdown": "Günther Beckstein (* 23. November 1943 in Hersbruck, Mittelfranken) ist ein deutscher Politiker (CSU). Dem Bayerischen Landtag gehörte er von 1974 bis 2013 an. Von 1993 bis 2007 war er bayerischer Staatsminister des Innern und von 2007 bis 2008 bayerischer Ministerpräsident (Kabinett Beckstein). Er war der erste evangelische und der zweite fränkische Ministerpräsident des Freistaats Bayern nach dem Zweiten Weltkrieg."
     },
     "descriptions": {
       "en": "deutscher Politiker (CSU), MdL, MdB, Landesminister"
@@ -37,7 +37,8 @@
     },
     "properties": {
       "birth_date": "1943-11-23T00:00:00Z",
-      "occupation": "Politiker"
+      "occupation": "Politiker",
+      "summary": "Günther Beckstein (* 23. November 1943 in Hersbruck, Mittelfranken) ist ein deutscher Politiker (CSU). Dem Bayerischen Landtag gehörte er von 1974 bis 2013 an. Von 1993 bis 2007 war er bayerischer Staatsminister des Innern und von 2007 bis 2008 bayerischer Ministerpräsident (Kabinett Beckstein). Er war der erste evangelische und der zweite fränkische Ministerpräsident des Freistaats Bayern nach dem Zweiten Weltkrieg."
     },
     "type": "person"
   }

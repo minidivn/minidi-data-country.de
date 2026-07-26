@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Philosoph und röm.-kathol. Kardinal, Bischof von Mainz"
+      "markdown": "Karl Kardinal Lehmann (* 16. Mai 1936 in Sigmaringen; † 11. März 2018 in Mainz) war ein deutscher römisch-katholischer Geistlicher, Theologe und Hochschullehrer und von 1983 bis 2016 Bischof von Mainz. Ab 1968 war er ordentlicher Professor für Dogmatik, von 1987 bis 2008 war er Vorsitzender der Deutschen Bischofskonferenz. Lehmann wurde 2001 von Papst Johannes Paul II. zum Kardinal ernannt."
     },
     "descriptions": {
       "en": "deutscher Philosoph und röm.-kathol. Kardinal, Bischof von Mainz"
@@ -33,12 +33,14 @@
     "domain": "general",
     "id": "Q45019",
     "labels": {
+      "de": "Karl Lehmann",
       "en": "Karl Lehmann"
     },
     "properties": {
       "birth_date": "1936-05-16T00:00:00Z",
       "death_date": "2018-03-11T00:00:00Z",
-      "occupation": "Schriftsteller"
+      "occupation": "Schriftsteller",
+      "summary": "Karl Kardinal Lehmann (* 16. Mai 1936 in Sigmaringen; † 11. März 2018 in Mainz) war ein deutscher römisch-katholischer Geistlicher, Theologe und Hochschullehrer und von 1983 bis 2016 Bischof von Mainz. Ab 1968 war er ordentlicher Professor für Dogmatik, von 1987 bis 2008 war er Vorsitzender der Deutschen Bischofskonferenz. Lehmann wurde 2001 von Papst Johannes Paul II. zum Kardinal ernannt."
     },
     "type": "person"
   }

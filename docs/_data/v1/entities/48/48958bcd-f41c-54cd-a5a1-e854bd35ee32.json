@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "ehemaliger deutscher Skispringer"
+      "markdown": "Martin Schmitt (* 29. Januar 1978 in Villingen-Schwenningen) ist ein ehemaliger deutscher Skispringer. Er startete für den Skiclub Furtwangen.\nSchmitt gehörte insbesondere von 1998 bis 2001 zur Weltspitze im Skispringen. Er feierte 28 Weltcupsiege und gewann zweimal den Gesamtweltcup (1998/99, 1999/2000). Bei Nordischen Skiweltmeisterschaften gewann er insgesamt zehn Medaillen, darunter vier WM-Titel. Bei Olympischen Spielen gewann er einmal Gold und zweimal Silber, jeweils im Teamspringen, bei Skiflug-Weltmeisterschaften gewann er einmal Silber.\nSeine und Sven Hannawalds Erfolge zwischen 1997 und 2002 machten das Skispringen zeitweise zu einer der populärsten Zuschauersportarten in Deutschland."
     },
     "descriptions": {
       "en": "ehemaliger deutscher Skispringer"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q44713",
     "labels": {
+      "de": "Martin Schmitt",
       "en": "Martin Schmitt"
     },
     "properties": {
       "birth_date": "1978-01-19T00:00:00Z",
-      "occupation": "Skispringer"
+      "occupation": "Skispringer",
+      "summary": "Martin Schmitt (* 29. Januar 1978 in Villingen-Schwenningen) ist ein ehemaliger deutscher Skispringer. Er startete für den Skiclub Furtwangen.\nSchmitt gehörte insbesondere von 1998 bis 2001 zur Weltspitze im Skispringen. Er feierte 28 Weltcupsiege und gewann zweimal den Gesamtweltcup (1998/99, 1999/2000). Bei Nordischen Skiweltmeisterschaften gewann er insgesamt zehn Medaillen, darunter vier WM-Titel. Bei Olympischen Spielen gewann er einmal Gold und zweimal Silber, jeweils im Teamspringen, bei Skiflug-Weltmeisterschaften gewann er einmal Silber.\nSeine und Sven Hannawalds Erfolge zwischen 1997 und 2002 machten das Skispringen zeitweise zu einer der populärsten Zuschauersportarten in Deutschland."
     },
     "type": "person"
   }

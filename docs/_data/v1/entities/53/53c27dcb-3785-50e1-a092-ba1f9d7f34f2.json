@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Radrennfahrer"
+      "markdown": "Erik Zabel (* 7. Juli 1970 in Ost-Berlin) ist ein ehemaliger deutscher Radrennfahrer. In seiner Karriere errang der Spezialist für Sprints und Eintagesrennen über 200 Siege (die Angaben schwanken zwischen 201 und 211). Bei der Tour de France, an der er von 1994 bis 2008 mit Ausnahme von 2005 jedes Jahr teilnahm, gewann er sechsmal das Grüne Trikot. 2009 beendete er seine aktive Laufbahn. 2013 bekannte er, von 1996 bis 2003 mit EPO, Kortison und Eigenblut gedopt zu haben."
     },
     "descriptions": {
       "en": "deutscher Radrennfahrer"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q44781",
     "labels": {
+      "de": "Erik Zabel",
       "en": "Erik Zabel"
     },
     "properties": {
       "birth_date": "1970-07-07T00:00:00Z",
-      "occupation": "Sportler"
+      "occupation": "Sportler",
+      "summary": "Erik Zabel (* 7. Juli 1970 in Ost-Berlin) ist ein ehemaliger deutscher Radrennfahrer. In seiner Karriere errang der Spezialist für Sprints und Eintagesrennen über 200 Siege (die Angaben schwanken zwischen 201 und 211). Bei der Tour de France, an der er von 1994 bis 2008 mit Ausnahme von 2005 jedes Jahr teilnahm, gewann er sechsmal das Grüne Trikot. 2009 beendete er seine aktive Laufbahn. 2013 bekannte er, von 1996 bis 2003 mit EPO, Kortison und Eigenblut gedopt zu haben."
     },
     "type": "person"
   }

@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher römisch-katholischer Geistlicher, Erzbischof von Köln, Kardinal (1906–1987)"
+      "markdown": "Joseph Kardinal Höffner (* 24. Dezember 1906 in Horhausen (Westerwald); † 16. Oktober 1987 in Köln) war ein deutscher römisch-katholischer Geistlicher und Theologe. Er war von 1962 bis 1969 der 73. Bischof von Münster, von 1969 bis 1987 Erzbischof von Köln und von 1976 bis 1987 Vorsitzender der Deutschen Bischofskonferenz."
     },
     "descriptions": {
       "en": "deutscher römisch-katholischer Geistlicher, Erzbischof von Köln, Kardinal (1906–1987)"
@@ -39,7 +39,8 @@
     "properties": {
       "birth_date": "1906-12-24T00:00:00Z",
       "death_date": "1987-10-16T00:00:00Z",
-      "occupation": "Priester"
+      "occupation": "Priester",
+      "summary": "Joseph Kardinal Höffner (* 24. Dezember 1906 in Horhausen (Westerwald); † 16. Oktober 1987 in Köln) war ein deutscher römisch-katholischer Geistlicher und Theologe. Er war von 1962 bis 1969 der 73. Bischof von Münster, von 1969 bis 1987 Erzbischof von Köln und von 1976 bis 1987 Vorsitzender der Deutschen Bischofskonferenz."
     },
     "type": "person"
   }

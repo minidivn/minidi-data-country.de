@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Golfer"
+      "markdown": "Bernhard Langer, OBE (* 27. August 1957 in Anhausen) ist ein deutscher Profigolfer. Er gehört neben Severiano Ballesteros, Nick Faldo, Sandy Lyle und Ian Woosnam zu den „Big Five“, einer Gruppe von Weltklasse-Golfern, die alle innerhalb von 12 Monaten geboren wurden, mindestens ein Major gewonnen und Europa im Ryder Cup konkurrenzfähig gemacht haben. Langer ist der erste deutsche Golfspieler, der international Beachtung erlangte. Außerdem ist er seit dem Gewinn der US Senior Open 2023 der erfolgreichste Spieler aller Zeiten auf der Champions Tour."
     },
     "descriptions": {
       "en": "deutscher Golfer"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q45012",
     "labels": {
+      "de": "Bernhard Langer",
       "en": "Bernhard Langer"
     },
     "properties": {
       "birth_date": "1957-08-27T00:00:00Z",
-      "occupation": "Golfspieler"
+      "occupation": "Golfspieler",
+      "summary": "Bernhard Langer, OBE (* 27. August 1957 in Anhausen) ist ein deutscher Profigolfer. Er gehört neben Severiano Ballesteros, Nick Faldo, Sandy Lyle und Ian Woosnam zu den „Big Five“, einer Gruppe von Weltklasse-Golfern, die alle innerhalb von 12 Monaten geboren wurden, mindestens ein Major gewonnen und Europa im Ryder Cup konkurrenzfähig gemacht haben. Langer ist der erste deutsche Golfspieler, der international Beachtung erlangte. Außerdem ist er seit dem Gewinn der US Senior Open 2023 der erfolgreichste Spieler aller Zeiten auf der Champions Tour."
     },
     "type": "person"
   }

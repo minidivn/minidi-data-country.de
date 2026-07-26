@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T03:59:33.832121400+00:00",
+    "created_at": "2026-07-26T04:40:13.559144600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T03:59:33.832121400+00:00",
+    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "deutscher Fußballspieler"
+      "markdown": "Hans-Georg „Katsche“ Schwarzenbeck (* 3. April 1948 in München) ist ein ehemaliger deutscher Fußballspieler, der seine gesamte Profikarriere bei Bayern München spielte. In seiner Karriere gewann er alle wichtigen nationalen und internationalen Titel und wurde Weltmeister, Europameister sowie sechsmal Deutscher Meister. Außerdem gewann er den Europapokal der Pokalsieger sowie je dreimal den Europapokal der Landesmeister und den DFB-Pokal."
     },
     "descriptions": {
       "en": "deutscher Fußballspieler"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q44820",
     "labels": {
+      "de": "Georg Schwarzenbeck",
       "en": "Georg Schwarzenbeck"
     },
     "properties": {
       "birth_date": "1948-04-03T00:00:00Z",
-      "occupation": "Fußballspieler"
+      "occupation": "Fußballspieler",
+      "summary": "Hans-Georg „Katsche“ Schwarzenbeck (* 3. April 1948 in München) ist ein ehemaliger deutscher Fußballspieler, der seine gesamte Profikarriere bei Bayern München spielte. In seiner Karriere gewann er alle wichtigen nationalen und internationalen Titel und wurde Weltmeister, Europameister sowie sechsmal Deutscher Meister. Außerdem gewann er den Europapokal der Pokalsieger sowie je dreimal den Europapokal der Landesmeister und den DFB-Pokal."
     },
     "type": "person"
   }
