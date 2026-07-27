@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T04:40:13.559144600+00:00",
+    "created_at": "2026-07-27T16:03:45.073323400+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
+    "updated_at": "2026-07-27T16:03:45.073323400+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -38,7 +38,7 @@
     "properties": {
       "birth_date": "1922-04-09T00:00:00Z",
       "death_date": "2005-05-24T00:00:00Z",
-      "occupation": "Schriftsteller",
+      "occupation": "Übersetzer",
       "summary": "Carl Amery (Pseudonym von Christian Anton Mayer; * 9. April 1922 in München; † 24. Mai 2005 ebenda) war ein deutscher Schriftsteller und Umweltaktivist.\nEr war Mitglied der Gruppe 47, 1976/1977 Vorsitzender im Verband deutscher Schriftsteller (VS) und von 1989 bis 1991 Präsident von PEN Deutschland. Von 1967 bis 1974 war Amery Mitglied der SPD, nachdem er zuvor der GVP angehört hatte. Später war Amery Gründungsmitglied der Partei Die Grünen beim Bundeskongress der Grünen in Karlsruhe am 13. Januar 1980 und Schirmherr der Wasserallianz München. Als Initiator und Mitbegründer war Amery von 1980 bis 1995 Präsident der E.-F.-Schumacher-Gesellschaft für Politische Ökologie (München)."
     },
     "type": "person"

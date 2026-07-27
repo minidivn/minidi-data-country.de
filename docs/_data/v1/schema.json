@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-07-26T04:40:26.983958100+00:00",
+  "created_at": "2026-07-27T16:03:53.125189800+00:00",
   "description": "Generic hypergraph schema — flat nodes + edges with compact field names",
   "edge_count": 0,
-  "entity_count": 5060,
+  "entity_count": 404,
   "fields": {
     "edges": {
       "r": "Relation/property label",

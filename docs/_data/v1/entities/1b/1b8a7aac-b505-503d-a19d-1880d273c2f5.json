@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T04:40:13.559144600+00:00",
+    "created_at": "2026-07-27T16:03:45.073323400+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.de",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T04:40:13.559144600+00:00",
+    "updated_at": "2026-07-27T16:03:45.073323400+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -39,7 +39,7 @@
     "properties": {
       "birth_date": "1869-05-18T00:00:00Z",
       "death_date": "1955-08-02T00:00:00Z",
-      "occupation": "Militär",
+      "occupation": "Politiker",
       "summary": "Rupprecht von Bayern (* 18. Mai 1869 in München; † 2. August 1955 in Schloss Leutstetten bei Starnberg) war der letzte bayerische Kronprinz und im Ersten Weltkrieg als Generalfeldmarschall Heerführer in der deutschen Armee. Sein vollständiger Titel lautete bis 1918 Seine Königliche Hoheit Rupprecht Maria Luitpold Ferdinand Kronprinz von Bayern, Herzog von Bayern, Franken und in Schwaben, Pfalzgraf bei Rhein. Nach der Novemberrevolution wurde Rupprecht ein Gegner des aufkommenden Nationalsozialismus und bemühte sich bis zu seinem Tode vergeblich um eine Restauration der Monarchie in Bayern."
     },
     "type": "person"
